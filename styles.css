@@ -1,0 +1,28 @@
+p{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    border:solid black 2px;
+    font-size: 17px;
+}
+
+.div{
+    font-family: 'Adamina', serif;
+}
+
+span{
+    color: lightgreen;
+}
+
+button{
+    background-color: lightgreen;
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-family: 'Charm', cursive;
+    font-size: 20px;
+    border:solid black 2px;
+}
+
+body{
+    background-color: teal;
+}
